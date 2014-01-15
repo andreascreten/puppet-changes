@@ -1,0 +1,2 @@
+/opt/boxen/rbenv/versions/2.0.0-p247/bin/ruby extconf.rb 
+/opt/boxen/rbenv/versions/2.0.0-p247/bin/ruby: invalid switch in RUBYOPT: -S (RuntimeError)
